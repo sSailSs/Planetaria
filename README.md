@@ -1,5 +1,6 @@
 # Planetoria
 Planétoria est une application web interactive permettant d'explorer et de comparer les planètes du système solaire. Conçue avec Laravel, elle offre une interface utilisateur moderne et immersive grâce à Tailwind CSS et un design inspiré de l’espace.
+
 Fonctionnalités principales :
 🌍 Consultation des planètes : Accédez à une liste détaillée des planètes avec leurs caractéristiques (taille, distance, gravité, atmosphère, etc.).
 ✨ Comparaison de planètes : Sélectionnez plusieurs planètes et comparez leurs propriétés.
