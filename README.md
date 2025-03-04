@@ -1,6 +1,6 @@
-Résumé du projet Planétoria 🌍🚀
+Résumé du projet Planétaria 🌍🚀
 
-Planétoria est une application web interactive permettant d'explorer et de comparer les différentes planètes du système solaire. Développée avec Laravel, elle offre une interface moderne et immersive où les utilisateurs peuvent :
+Planétaria est une application web interactive permettant d'explorer et de comparer les différentes planètes du système solaire. Développée avec Laravel, elle offre une interface moderne et immersive où les utilisateurs peuvent :
 
 ⚙️ Consulter une liste de planètes avec des informations détaillées (taille, gravité, atmosphère, etc.).
 
