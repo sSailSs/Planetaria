@@ -15,3 +15,5 @@ Planétaria est une application web interactive permettant d'explorer et de comp
 L'application repose sur Laravel (backend), Blade/Tailwind CSS (frontend) et utilise une authentification sécurisée avec Laravel Breeze. Elle offre une expérience utilisateur fluide, avec des effets visuels dynamiques et une navigation intuitive.
 
 Lien modèle maquetage : https://www.canva.com/design/DAGgyZKbQvo/8XEZcM0k9DEGfv4dRt6INg/edit?utm_content=DAGgyZKbQvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Lien Diagramme : https://www.canva.com/design/DAGgzG65fA0/4-rgRFvlTonQifCVXFnCcQ/edit?utm_content=DAGgzG65fA0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
