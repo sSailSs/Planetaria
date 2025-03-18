@@ -36,13 +36,13 @@ class PlanetController extends Controller
     public function store(Request $request)
     {
         $request->validate([
-            'name' => 'required|string',
-            'type' => 'required|string',
-            'size' => 'required|integer',
-            'distance' => 'required|numeric',
-            'gravity' => 'required|numeric',
-            'atmosphere' => 'required|string',
-            'image' => 'nullable|string',
+        'name' => 'required|string|max:255',
+        'type' => 'required|string|in:Gas Giant,Ice Giant,Terrestrial',
+        'size' => 'required|integer|min:1',
+        'mass' => 'required|numeric|min:0.1',
+        'distance' => 'required|numeric|min:0.1',
+        'gravity' => 'required|numeric|min:0.1',
+        'atmosphere' => ['required', 'regex:/^[A-Z][a-z]? \d+% - [A-Z][a-z]? \d+%$/'],
 
         ]);
 
